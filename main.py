@@ -2,7 +2,7 @@ import os
 import sqlite3
 import logging
 import time
-import pandas as pd
+# import pandas as pd
 from datetime import datetime
 from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, executor, types
